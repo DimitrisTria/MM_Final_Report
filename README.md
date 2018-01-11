@@ -70,18 +70,22 @@
 
 ### ΙΙΙ) Χαρακτήρες στο παιχνίδι
 
-1) Παίκτης
+1) Παίκτης (1)
 
   ![player](https://user-images.githubusercontent.com/22676085/32542777-5ba8b378-c47c-11e7-9f01-6705d5a01311.png)
   
   link παίκτη: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
 
-2) Εχθροί
+2) Εχθροί (3)
 
-  i) Eχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
+  i) Eχθρός που κινείται στη πίστα.
+  
+   Goomba: ![goomba](https://user-images.githubusercontent.com/22676085/34834252-41c0dd4a-f6fa-11e7-962c-b9afde307604.png)
+
+  ii) Νέος εχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
     
    Fireball: ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
 
-  ii) Eχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά τον παίκτη τακτικά στην περιοχή επίθεσής του.
+  iii) Νέος εχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά τον παίκτη τακτικά στην περιοχή επίθεσής του.
     
    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
