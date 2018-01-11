@@ -98,11 +98,13 @@
   ![score_bonus_lifes](https://user-images.githubusercontent.com/22676085/34834756-8178f2dc-f6fb-11e7-809b-1263047acb21.png)
 
   i) score
-    10 πόντους για νόμισμα και 15 πόντους για goomba.
+    -> -5 πόντους όταν χάνει κάποια ζωή ο παίκτης.
+    -> 10 πόντους για νόμισμα
+    -> 15 πόντους για το πάτημα ενός goomba.
   
   ii) Ζωές
-    5 ζωές συνολικά στο παιχνίδι.
+    -> 5 ζωές συνολικά στο παιχνίδι.
   
   iii) Μπόνους
-    Τρία είδη bonus: αόρατος, διπλά νομίσματα και διπλό score στα kills για σύντομο χρονικό διάστημα.
+    -> Τρία είδη bonus: αόρατος, διπλά νομίσματα και διπλό score στα kills για σύντομο χρονικό διάστημα.
     link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
