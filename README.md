@@ -22,15 +22,15 @@
 
   Επιπλέον, στις πίστες εφαρμόζεται και σύστημα διαχείρησης επιπέδων, όπου μετά την επιτυχή ολοκλήρωση του προηγούμενου επιπέδου γίνεται διαθέσιμο το επόμενο. Γίνεται χρήση χρωμάτων πράσινο και κόκκινο για την ένδειξη διαθεσιμότητας του επιπέδου.
 
-1) Unlocked επίπεδο
+  i) Unlocked επίπεδο
 
-  ![levels_unlocked](https://user-images.githubusercontent.com/22676085/33654135-de938536-da77-11e7-9e5d-1d135a272ef3.png)
+   ![levels_unlocked](https://user-images.githubusercontent.com/22676085/33654135-de938536-da77-11e7-9e5d-1d135a272ef3.png)
 
-2) Locked επίπεδο
+  ii) Locked επίπεδο
 
-  ![levels_locked](https://user-images.githubusercontent.com/22676085/33654134-de6ba0de-da77-11e7-9ceb-bf56e1faaa14.png)
+   ![levels_locked](https://user-images.githubusercontent.com/22676085/33654134-de6ba0de-da77-11e7-9ceb-bf56e1faaa14.png)
 
-3) Τρίτο κουμπί (μη τελικό): Help
+3) Τρίτο κουμπί: Help
 
   Οδηγίες του παιχνιδιού.
 
