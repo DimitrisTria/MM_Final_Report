@@ -8,7 +8,7 @@
 
 ### I) Μenu στην αρχή του παιχνιδιού.
 
-![menu](https://user-images.githubusercontent.com/22676085/33654136-deb9c26e-da77-11e7-8ea8-ee64186b5470.png)
+  ![menu](https://user-images.githubusercontent.com/22676085/33654136-deb9c26e-da77-11e7-8ea8-ee64186b5470.png)
 
 1) Πρώτο κουμπί: Play
 
@@ -48,40 +48,40 @@
     
     Survival: Μία ζωή σε όλο το παιχνίδι.
 
-![settings](https://user-images.githubusercontent.com/22676085/33654138-df1515b0-da77-11e7-9a66-8713219ceb94.png)
+  ![settings](https://user-images.githubusercontent.com/22676085/33654138-df1515b0-da77-11e7-9a66-8713219ceb94.png)
 
 ### II) Πίστες του παιχνιδιού
 
 1) Πρώτη πίστα (tutorial πίστα)
 
-![super_mario_map0](https://user-images.githubusercontent.com/22676085/33488606-d811c7fc-d6b9-11e7-96f5-327a5e12046b.png)
+  ![super_mario_map0](https://user-images.githubusercontent.com/22676085/33488606-d811c7fc-d6b9-11e7-96f5-327a5e12046b.png)
 
 2) Δεύτερη πίστα
 
-![super_mario_map1](https://user-images.githubusercontent.com/22676085/33655905-1ed91048-da7d-11e7-8953-220805da2b54.png)
+  ![super_mario_map1](https://user-images.githubusercontent.com/22676085/33655905-1ed91048-da7d-11e7-8953-220805da2b54.png)
 
 3) Τρίτη πίστα
 
-![super_mario_map2](https://user-images.githubusercontent.com/22676085/33656042-8c4bb996-da7d-11e7-97db-7063614cf673.png)
+  ![super_mario_map2](https://user-images.githubusercontent.com/22676085/33656042-8c4bb996-da7d-11e7-97db-7063614cf673.png)
 
 4) Τέταρτη πίστα
 
-![super_mario_map3](https://user-images.githubusercontent.com/22676085/33655704-7fce8c08-da7c-11e7-850e-ef5d0cfd1925.png)
+  ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33655704-7fce8c08-da7c-11e7-850e-ef5d0cfd1925.png)
 
 ### ΙΙΙ) Χαρακτήρες στο παιχνίδι
 
 1) Παίκτης
 
-![player](https://user-images.githubusercontent.com/22676085/32542777-5ba8b378-c47c-11e7-9f01-6705d5a01311.png)
+  ![player](https://user-images.githubusercontent.com/22676085/32542777-5ba8b378-c47c-11e7-9f01-6705d5a01311.png)
   
-link παίκτη: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
+  link παίκτη: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
 
 2) Εχθροί
 
-i) Eχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
+  i) Eχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
     
-  Fireball: ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
+   Fireball: ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
 
-ii) Eχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά τον παίκτη τακτικά στην περιοχή επίθεσής του.
+  ii) Eχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά τον παίκτη τακτικά στην περιοχή επίθεσής του.
     
    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
