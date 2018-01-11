@@ -13,7 +13,6 @@
 1) Πρώτο κουμπί: Play
 
   Ξεκινάει το παιχνίδι από τη πρώτη πίστα, η οποία είναι και tutorial πίστα.
-  ![super_mario_map0](https://user-images.githubusercontent.com/22676085/33656369-850c53c4-da7e-11e7-96af-a3512b076286.png)
 
 2) Δεύτερο κουμπί: Levels
 
