@@ -49,3 +49,21 @@
     Survival: Μία ζωή σε όλο το παιχνίδι.
 
 ![settings](https://user-images.githubusercontent.com/22676085/33654138-df1515b0-da77-11e7-9a66-8713219ceb94.png)
+
+### II) Πίστες του παιχνιδιού
+
+Πρώτη πίστα (tutorial πίστα)
+
+![super_mario_map0](https://user-images.githubusercontent.com/22676085/33488606-d811c7fc-d6b9-11e7-96f5-327a5e12046b.png)
+
+Δεύτερη πίστα
+
+![super_mario_map1](https://user-images.githubusercontent.com/22676085/33655905-1ed91048-da7d-11e7-8953-220805da2b54.png)
+
+Τρίτη πίστα
+
+![super_mario_map2](https://user-images.githubusercontent.com/22676085/33656042-8c4bb996-da7d-11e7-97db-7063614cf673.png)
+
+Τέταρτη πίστα
+
+![super_mario_map3](https://user-images.githubusercontent.com/22676085/33655704-7fce8c08-da7c-11e7-850e-ef5d0cfd1925.png)
