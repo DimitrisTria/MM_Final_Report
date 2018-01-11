@@ -95,7 +95,7 @@
 1) Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png) από τα bonus boxes: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png).
 
 2) score, Ζωές, Μπόνους
-  ![screenshot-2017-11-8 super-mario_4](https://user-images.githubusercontent.com/22676085/32542089-3abb0730-c47a-11e7-9143-198dab12e0fe.png)
+  ![score_bonus_lifes](https://user-images.githubusercontent.com/22676085/34834756-8178f2dc-f6fb-11e7-809b-1263047acb21.png)
 
   i) score
     10 πόντους για νόμισμα και 15 πόντους για goomba.
