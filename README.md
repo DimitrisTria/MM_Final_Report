@@ -6,7 +6,7 @@
 #### -Link demo, με τις πιο πρόσφατες αλλαγές: https://dimitristria.github.io/Super-Mario/
 #### -Αποθετήριο κώδικα, με τις πιο πρόσφατες αλλαγές: https://github.com/DimitrisTria/Super-Mario/tree/gh-pages
 
-### ***I) Μenu στην αρχή του παιχνιδιού.***
+### ***I) Μenu στην αρχή του παιχνιδιού***
 
   ![menu](https://user-images.githubusercontent.com/22676085/33654136-deb9c26e-da77-11e7-8ea8-ee64186b5470.png)
 
@@ -50,7 +50,7 @@
 
   ![settings](https://user-images.githubusercontent.com/22676085/33654138-df1515b0-da77-11e7-9a66-8713219ceb94.png)
 
-### II) Πίστες του παιχνιδιού
+### ***II) Πίστες του παιχνιδιού***
 
 1) Πρώτη πίστα (tutorial πίστα)
 
@@ -68,7 +68,7 @@
 
   ![super_mario_map3](https://user-images.githubusercontent.com/22676085/33655704-7fce8c08-da7c-11e7-850e-ef5d0cfd1925.png)
 
-### ΙΙΙ) Χαρακτήρες στο παιχνίδι
+### ***ΙΙΙ) Χαρακτήρες στο παιχνίδι***
 
 1) Παίκτης (1)
 
@@ -90,7 +90,7 @@
     
    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
 
-### IV) Επέκταση του παιχνιδιού
+### ***IV) Επέκταση του παιχνιδιού***
 
 1) Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png) από τα bonus boxes: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png).
 
