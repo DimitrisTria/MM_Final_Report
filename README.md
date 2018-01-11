@@ -78,10 +78,10 @@ link παίκτη: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies
 
 2) Εχθροί
 
-i) fireball: εχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
+i) Eχθρός που κινείται αιωρούμενος στη πίστα και είναι αθάνατος.
     
-  ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
+  Fireball: ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
 
-ii) UFO: εχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά τον παίκτη τακτικά στην περιοχή επίθεσής του.
+ii) Eχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά τον παίκτη τακτικά στην περιοχή επίθεσής του.
     
    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
