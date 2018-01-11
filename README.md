@@ -107,7 +107,7 @@
     
     -> 5 ζωές συνολικά στο παιχνίδι.
   
-  iii) Μπόνους
+  iii) Μπόνους επίδραση για σύντομο χρονικό διάστημα
     
-    -> Τρία είδη bonus: αόρατος, διπλά νομίσματα και διπλό score στα kills για σύντομο χρονικό διάστημα.
+    -> Τρία είδη bonus: αόρατος, διπλό score στα νομίσματα και στα kills.
    link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
