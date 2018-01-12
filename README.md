@@ -14,7 +14,7 @@
   Επιπλέον, επέκτεινα το παιχνίδι με προσθήκες όπως προσθήκη επιπλέον κουμπιών στο menu (Levels,Help,Settings), δυνατότητα σίγασης όλων των ήχων στο παιχνίδι, δυνατότητα επιλογής δυσκολίας, επιπλέον πίστες (όπως εκπαιδευτική πίστα), λειτουργία checkpoints και επιπλέον είδη bonus.
 
 ### Επιλογή εργαλείων
-  * Ολοκληρωμένο περιβάλλον προγραμματισμού: Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/ "Visual Studio Code")
+  * Λογισμικό ολοκληρωμένου περιβάλλοντος προγραμματισμού: Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/ "Visual Studio Code")
   * Λογισμικό επεξεργασίας εικόνων: Paint.Net [https://www.getpaint.net/](https://www.getpaint.net/ "Paint.Net")
   * Λογισμικό δημιουργία επιπέδων στο παιχνίδι: Tiled [http://www.mapeditor.org/](http://www.mapeditor.org/ "Tiled")
 
