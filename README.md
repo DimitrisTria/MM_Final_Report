@@ -112,8 +112,6 @@
     -> αόρατος
     -> διπλό score στα νομίσματα
     -> διπλό score στα kills.
-    
-   link bonus: https://dribbble.com/shots/2010241-Game-Stars?list=shots&sort=popular&timeframe=now&offset=50
 
 3) Ήχοι και μουσική
 
