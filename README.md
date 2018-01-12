@@ -74,7 +74,7 @@
 
   ![player](https://user-images.githubusercontent.com/22676085/32542777-5ba8b378-c47c-11e7-9f01-6705d5a01311.png)
   
-  link παίκτη: https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated
+  link παίκτη: [https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated](https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated "link παίκτη")
 
 2) Εχθροί (3)
 
@@ -121,8 +121,8 @@
 
   i) Προσθήκη νέων ήχων από το αυθεντικό Super Mario Bros.
   
-  link1: https://scratch.mit.edu/projects/49905542/
+  link1: [https://scratch.mit.edu/projects/49905542/](https://scratch.mit.edu/projects/49905542/ "scratch")
   
   ii) Προσθήκη μουσικής από τα assets της εργασίας.
   
-  link2: https://freesound.org/
+  link2: [https://freesound.org/](https://freesound.org/ "freesound.org")
