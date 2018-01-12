@@ -6,17 +6,19 @@
 * Link demo: [https://dimitristria.github.io/Super-Mario/](https://dimitristria.github.io/Super-Mario/ "Link demo")
 * Αποθετήριο κώδικα: [https://github.com/DimitrisTria/Super-Mario/tree/gh-pages](https://github.com/DimitrisTria/Super-Mario/tree/gh-pages "Αποθετήριο κώδικα")
 
-### Σύνοψη
-
-
 ### Εισαγωγή
+  Το παρακάτω παιχνίδι δημιουργήθηκε για τα πλαίσια της εργασίας του μαθήματος, του Ιόνιου Πανεπιστημίου, Πολυμέσα του πέμπτου εξαμήνου.
 
+### Σύνοψη
+  
 
 ### Επιλογή εργαλείων
-
+  * Το ολοκληρωμένο περιβάλλον προγραμματισμού που χρησιμοποίησα είναι το: Visual Studio Code [https://code.visualstudio.com/](https://code.visualstudio.com/ "Visual Studio Code")
+  * Λογισμικό επεξεργασίας εικόνων: Paint.Net [https://www.getpaint.net/](https://www.getpaint.net/ "Paint.Net")
+  * Λογισμικό δημιουργία επιπέδων στο παιχνίδι: Tiled [http://www.mapeditor.org/](http://www.mapeditor.org/ "Tiled")
 
 ### Διαδικασία ανάπτυξης
-
+  
 
 ### Ενδεικτικές οθόνες
 
