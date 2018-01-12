@@ -6,10 +6,10 @@
 * Link demo: [https://dimitristria.github.io/Super-Mario/](https://dimitristria.github.io/Super-Mario/ "Link demo")
 * Αποθετήριο κώδικα: [https://github.com/DimitrisTria/Super-Mario/tree/gh-pages](https://github.com/DimitrisTria/Super-Mario/tree/gh-pages "Αποθετήριο κώδικα")
 
-#### Σύνοψη
+### Σύνοψη
 
 
-#### Εισαγωγή
+### Εισαγωγή
 
 
 ### Επιλογή εργαλείων
