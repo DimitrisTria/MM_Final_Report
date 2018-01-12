@@ -125,4 +125,4 @@
   
   ii) Προσθήκη μουσικής από τα assets της εργασίας.
   
-  link2: [https://freesound.org/](https://freesound.org/ "freesound.org")
+  link2: [https://freesound.org/](https://freesound.org/ "freesound")
