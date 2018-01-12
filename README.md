@@ -6,7 +6,17 @@
 #### -Link demo: https://dimitristria.github.io/Super-Mario/
 #### -Αποθετήριο κώδικα: https://github.com/DimitrisTria/Super-Mario/tree/gh-pages
 
-### ***I) Μenu στην αρχή του παιχνιδιού***
+#### Σύνοψη
+
+#### Εισαγωγή
+
+### Επιλογή εργαλείων
+
+### Διαδικασία ανάπτυξης
+
+### Ενδεικτικές οθόνες
+
+#### ***I) Μenu στην αρχή του παιχνιδιού***
 
   ![menu](https://user-images.githubusercontent.com/22676085/33654136-deb9c26e-da77-11e7-8ea8-ee64186b5470.png)
 
@@ -126,3 +136,6 @@
   ii) Προσθήκη μουσικής από τα assets της εργασίας.
   
   link2: [https://freesound.org/](https://freesound.org/ "freesound")
+
+### Συμπεράσματα
+
