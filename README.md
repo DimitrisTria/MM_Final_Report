@@ -27,7 +27,7 @@
 
   ![menu](https://user-images.githubusercontent.com/22676085/33654136-deb9c26e-da77-11e7-8ea8-ee64186b5470.png)
 
-1) Πρώτο κουμπί: **Play**
+1. Πρώτο κουμπί: **Play**
 
   Ξεκινάει το παιχνίδι από τη πρώτη πίστα, η οποία είναι και tutorial πίστα.
 
