@@ -34,7 +34,7 @@
 
   Περιέχει οδηγίες για το χειρισμό του παίκτη.
 
-  ![help](https://user-images.githubusercontent.com/22676085/33654132-de1b6c2c-da77-11e7-879a-a45624fed848.png)
+  ![help](https://user-images.githubusercontent.com/22676085/34873922-9277eb7a-f79f-11e7-8338-9e35ae5ea044.png)
 
 4) Τέταρτο κουμπί: Settings
 
