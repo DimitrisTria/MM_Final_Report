@@ -172,6 +172,7 @@ vi) Αποτυχία ολοκλήρωσης μιας πίστας.
   * firework animation: [https://giphy.com/stickers/free-fireworks-clipart-vzF0lrwPoR9kc?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://www.google.co.in/](https://giphy.com/stickers/free-fireworks-clipart-vzF0lrwPoR9kc?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://www.google.co.in/ 'firework animation')
   * teleport sprite: [https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12](https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12 'teleport sprite')
   * player and fireball sprites: [https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated](https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated 'player and fireball sprites')
+  * ufo: [https://png.clipart.me/istock/thumbs/6396/63963607-vector-pixel-cute-aliens-and-ufo.jpg](https://png.clipart.me/istock/thumbs/6396/63963607-vector-pixel-cute-aliens-and-ufo.jpg 'ufo')
   * help arrows: [http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png](http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png)
   
   Το υπόλοιπο περιεχόμενο (εικόνες), εκτός από αυτό που ήρθε με το παιχνίδι στην εργασία, δημιουργήθηκε από εμένα.
