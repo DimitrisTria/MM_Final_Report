@@ -148,10 +148,12 @@ iv) Αλλαγές στο tile set
   
 v) Προσθήκη λειτουργίας checkpoint (χρήσιμο για μεγάλες πίστες).
     
-  ![checkpoint_red](https://user-images.githubusercontent.com/22676085/33607610-64bf4d42-d9ca-11e7-8c97-405b07ca516c.png)
-        
-  ![checkpoint_green](https://user-images.githubusercontent.com/22676085/33607611-64e20544-d9ca-11e7-8e0b-a5b5daeb911a.png)
+  ![checkpoint](https://user-images.githubusercontent.com/22676085/35154944-c467a7f2-fd34-11e7-83df-f92dcf56f0db.gif)
   
+vi) Animation για την επιτυχή ολοκλήρωση μιας πίστας, καθώς και αποτλέσματα για την επίδοση του παίκτη πριν την επόμενη.
+
+  ![end_of_level_1](https://user-images.githubusercontent.com/22676085/35155304-e11615d6-fd35-11e7-9b62-8d347582f530.gif)
+
 ### Πηγές πολυμεσικού υλικού που χρησιμοποιήθηκε στο παιχνίδι
   
   * menu background: [http://iliketowastemytime.com/2012/12/30/daily-wallpaper-star-map](http://iliketowastemytime.com/2012/12/30/daily-wallpaper-star-map 'menu background')
