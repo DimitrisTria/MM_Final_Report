@@ -6,7 +6,7 @@
 * Demo: [https://dimitristria.github.io/Super-Mario/](https://dimitristria.github.io/Super-Mario/ 'Link demo')
 * Αποθετήριο κώδικα: [https://github.com/DimitrisTria/Super-Mario](https://github.com/DimitrisTria/Super-Mario 'Αποθετήριο κώδικα')
 
-Αποθετήριο κώδικα προηγούμενων παραδοτέων
+##### Αποθετήριο κώδικα προηγούμενων παραδοτέων
 
 * Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
 * Αποθετήριο κώδικα τρίτου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3 'Αποθετήριο κώδικα τρίτου παραδοτέου')
@@ -145,6 +145,12 @@ iii) Ήχοι και μουσική
 iv) Αλλαγές στο tile set
 
   ![super_mario_tiles](https://user-images.githubusercontent.com/22676085/35148967-0ffbb98c-fd1d-11e7-9c0d-bcc770074d2a.png)
+  
+v) Προσθήκη λειτουργίας checkpoint (χρήσιμο για μεγάλες πίστες).
+    
+  ![checkpoint_red](https://user-images.githubusercontent.com/22676085/33607610-64bf4d42-d9ca-11e7-8c97-405b07ca516c.png)
+        
+  ![checkpoint_green](https://user-images.githubusercontent.com/22676085/33607611-64e20544-d9ca-11e7-8e0b-a5b5daeb911a.png)
   
 ### Πηγές πολυμεσικού υλικού που χρησιμοποιήθηκε στο παιχνίδι
   
