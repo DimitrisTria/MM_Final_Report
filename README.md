@@ -90,8 +90,6 @@ iv) Τέταρτη πίστα
 i) Παίκτης (1)
 
   ![player](https://user-images.githubusercontent.com/22676085/32542777-5ba8b378-c47c-11e7-9f01-6705d5a01311.png)
-  
-  link παίκτη: [https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated](https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated "link παίκτη")
 
 ii) Εχθροί (3)
 
@@ -147,8 +145,9 @@ iii) Ήχοι και μουσική
   * freesound: [https://freesound.org/](https://freesound.org/ "freesound")
   * Super Mario Bros assets1: [https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/](https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/ 'Super Mario Bros assets1')
   * Super Mario Bros assets2: [http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html](http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html 'Super Mario Bros assets2')
+  * coin animation: [http://s11.postimg.org/p9sml5v4z/Coins.png](http://s11.postimg.org/p9sml5v4z/Coins.png 'coin animation')
   * teleport sprite: [https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12](https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12 'teleport sprite')
-  * player and fireball: [https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated](https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated 'player and fireball')
+  * player and fireball sprites: [https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated](https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated 'player and fireball sprites')
   * help arrows: [http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png](http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png)
   
   Το υπόλοιπο πολυμεσικό περιεχόμενο, εκτός από αυτά που ήρθαν με το παιχνίδι στην εργασία, δημιουργήθηκαν από εμένα.
