@@ -148,9 +148,17 @@ iv) Checkpoint.
   
   ![checkpoint](https://user-images.githubusercontent.com/22676085/35154944-c467a7f2-fd34-11e7-83df-f92dcf56f0db.gif)
   
-v) Animation για την επιτυχή ολοκλήρωση μιας πίστας, καθώς και αποτλέσματα για την επίδοση του παίκτη πριν την επόμενη.
+v) Επιτυχή ολοκλήρωση μιας πίστας.
 
-  ![end_of_level](https://user-images.githubusercontent.com/22676085/35155304-e11615d6-fd35-11e7-9b62-8d347582f530.gif)
+ Animation για την επιτυχή ολοκλήρωση μιας πίστας, καθώς και αποτλέσματα για την επίδοση του παίκτη πριν την επόμενη.
+
+  ![end_of_level_1](https://user-images.githubusercontent.com/22676085/35155304-e11615d6-fd35-11e7-9b62-8d347582f530.gif)
+  
+vi) Αποτυχία ολοκλήρωσης μιας πίστας.
+
+  Γίνεται εμφάνιση με αποτλέσματα για την επίδοση του παίκτη.
+  
+  ![end_of_level_2](https://user-images.githubusercontent.com/22676085/35156428-79f92588-fd39-11e7-8d96-6e8ae6d60e98.gif)
 
 ### Πηγές πολυμεσικού υλικού που χρησιμοποιήθηκε στο παιχνίδι
   
