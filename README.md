@@ -110,7 +110,7 @@ ii) Τρεις (3) εχθροί
     
    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
 
-#### ***IV) Επέκταση του παιχνιδιού***
+#### ***IV) Λειτουργίες στο παιχνίδι***
 
 i) Δυνατότητα τηλεμεταφοράς του παίκτη σε κάποιο σημείο της πίστας πέρα από αυτό που βρίσκεται αυτή τη στιγμή.Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png 'teleport') από το αντικείμενο: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png 'bonus box').
 
@@ -142,13 +142,15 @@ iii) Ήχοι και μουσική
   1) Προσθήκη νέων ήχων αλλά και από το αυθεντικό Super Mario Bros.
   2) Προσθήκη μουσικής στο παιχνίδι.
   
-iv) Προσθήκη λειτουργίας checkpoint (χρήσιμο για μεγάλες πίστες).
-    
+iv) Checkpoint.
+
+  Η λειτουργία checkpoint είναι χρήσιμη για μεγάλες πίστες.
+  
   ![checkpoint](https://user-images.githubusercontent.com/22676085/35154944-c467a7f2-fd34-11e7-83df-f92dcf56f0db.gif)
   
 v) Animation για την επιτυχή ολοκλήρωση μιας πίστας, καθώς και αποτλέσματα για την επίδοση του παίκτη πριν την επόμενη.
 
-  ![end_of_level_1](https://user-images.githubusercontent.com/22676085/35155304-e11615d6-fd35-11e7-9b62-8d347582f530.gif)
+  ![end_of_level](https://user-images.githubusercontent.com/22676085/35155304-e11615d6-fd35-11e7-9b62-8d347582f530.gif)
 
 ### Πηγές πολυμεσικού υλικού που χρησιμοποιήθηκε στο παιχνίδι
   
