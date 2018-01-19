@@ -4,7 +4,12 @@
 ### Αριθμός Μητρώου: Π2015077
 
 * Link demo: [https://dimitristria.github.io/Super-Mario/](https://dimitristria.github.io/Super-Mario/ "Link demo")
-* Αποθετήριο κώδικα: [https://github.com/DimitrisTria/Super-Mario/tree/gh-pages](https://github.com/DimitrisTria/Super-Mario/tree/gh-pages "Αποθετήριο κώδικα")
+* Αποθετήριο τρέχον κώδικα: [https://github.com/DimitrisTria/Super-Mario/tree/gh-pages](https://github.com/DimitrisTria/Super-Mario/tree/gh-pages "Αποθετήριο κώδικα")
+
+Αποθετήριο κώδικα προηγούμενων παραδοτέων
+
+* Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
+* Αποθετήριο κώδικα τρίτου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3 'Αποθετήριο κώδικα τρίτου παραδοτέου')
 
 ### Εισαγωγή
   Το παρακάτω παιχνίδι, Super Mario, δημιουργήθηκε για τα πλαίσια της εργασίας εξαμήνου του μαθήματος Πολυμέσα, του Ιόνιου Πανεπιστημίου, στο πέμπτου εξαμήνου.
@@ -43,7 +48,7 @@ ii) Δεύτερο κουμπί: **Levels**
 
    ![levels_unlocked](https://user-images.githubusercontent.com/22676085/33654135-de938536-da77-11e7-9e5d-1d135a272ef3.png)
 
-  2) Με την επιλογή πράσινου πλαισιού (μη διαθέσιμη πίστα) δε γίνεται προβολή στιγμιοτύπου της πίστας που επιλέχθηκε.
+  2) Με την επιλογή κόκκινου πλαισιού (μη διαθέσιμη πίστα) δε γίνεται προβολή στιγμιοτύπου της πίστας που επιλέχθηκε.
 
    ![levels_locked](https://user-images.githubusercontent.com/22676085/33654134-de6ba0de-da77-11e7-9ceb-bf56e1faaa14.png)
 
@@ -55,9 +60,9 @@ iii) Τρίτο κουμπί: **Help**
 
 iv) Τέταρτο κουμπί: **Settings**
 
-  1) Κουμπί για επιλογή σίγασης των ήχων.
+  1) Κουμπί για επιλογή σίγασης των ήχων (mute).
 
-  2) Κουμπί για επιλογή δυσκολίας.
+  2) Κουμπί για επιλογή δυσκολίας (difficulty).
 
     Normal: Αρχικές ζωές πέντε (5) και με την επιτυχή ολοκλήρωση μιας πίστας αυξάνονται κατά μία (1).
     
@@ -87,27 +92,27 @@ iv) Τέταρτη πίστα
 
 #### ***ΙΙΙ) Χαρακτήρες στο παιχνίδι***
 
-i) Παίκτης (1)
+i) Παίκτης
 
   ![player](https://user-images.githubusercontent.com/22676085/32542777-5ba8b378-c47c-11e7-9f01-6705d5a01311.png)
 
-ii) Εχθροί (3)
+ii) Τρεις (3) εχθροί
 
-  1) Eχθρός που κινείται στη πίστα.
+  1) Eχθρός που κινείται στο έδαφος της πίστας δεξιά και αριστερά και μπορεί να πεθάνει.
   
    Goomba: ![goomba](https://user-images.githubusercontent.com/22676085/34834252-41c0dd4a-f6fa-11e7-962c-b9afde307604.png)
 
-  2) Νέος εχθρός που κινείται αιωρούμενος στη πίστα. Συγκεκριμένα όπου βρεί εμπόδιο αλλάζει την κατεύθυνσή του και είναι απέθαντος.
+  2) Νέος εχθρός που κινείται αργά αιωρούμενος στη πίστα. Συγκεκριμένα όπου βρεί εμπόδιο αλλάζει την κατεύθυνσή του και είναι απέθαντος.
     
    Fireball: ![fireball](https://user-images.githubusercontent.com/22676085/33483734-e4f7be20-d6a7-11e7-8b42-866793675d33.png)
 
-  3) Νέος εχθρός που βρίσκεται στον αέρα σε σημεία στη πίστα και πυροβολά τον παίκτη τακτικά όταν αυτός βρίσκεται στην περιοχή επίθεσής του και είναι απέθαντος.
+  3) Νέος εχθρός που βρίσκεται στον αέρα σε σταθερά σημεία στη πίστα και πυροβολά τον παίκτη τακτικά όταν αυτός βρίσκεται στην περιοχή επίθεσής του και είναι απέθαντος.
     
    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
 
 #### ***IV) Επέκταση του παιχνιδιού***
 
-i) Δυνατότητα τηλεμεταφοράς του παίκτη σε κάποιο σημείο της πίστας πέρα από αυτό που βρίσκεται αυτή τη στιγμή.Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png) από το αντικείμενο: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png).
+i) Δυνατότητα τηλεμεταφοράς του παίκτη σε κάποιο σημείο της πίστας πέρα από αυτό που βρίσκεται αυτή τη στιγμή.Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png 'teleport') από το αντικείμενο: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png 'bonus box').
 
 ii) Πόντοι, Μπόνους, Ζωές
   ![score_bonus_lifes](https://user-images.githubusercontent.com/22676085/34834756-8178f2dc-f6fb-11e7-809b-1263047acb21.png)
@@ -120,7 +125,7 @@ ii) Πόντοι, Μπόνους, Ζωές
   
   2) Μπόνους (bonus) παίκτη
   
-   Το μπόνους του παίκτη επιτυγχάνεται με το να συλλέξει το μανητάρι: από το αντικείμενο: . Η επίδραση ττου είναι για σύντομο χρονικό διάστημα και πιο συγκεκριμένα οκτώ (8) δευτερόλεπτα.
+   Το μπόνους του παίκτη επιτυγχάνεται με το να συλλέξει το μανιτάρι: ![mushroom](https://user-images.githubusercontent.com/22676085/35148273-349288a0-fd1a-11e7-9149-4bef2ffe360f.png 'mushroom') από το αντικείμενο: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png 'bonus box'). Η επίδραση ττου είναι για σύντομο χρονικό διάστημα και πιο συγκεκριμένα οκτώ (8) δευτερόλεπτα.
     
     -> αόρατος
     -> διπλό score στα νομίσματα
