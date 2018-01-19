@@ -51,7 +51,7 @@ iii) Τρίτο κουμπί: **Help**
 
   Περιέχει οδηγίες για το χειρισμό του παίκτη.
 
-  ![help](https://user-images.githubusercontent.com/22676085/34873922-9277eb7a-f79f-11e7-8338-9e35ae5ea044.png)
+  ![help](https://user-images.githubusercontent.com/22676085/35142631-7e36097c-fd07-11e7-9c0f-ca9a25fe8594.png)
 
 iv) Τέταρτο κουμπί: **Settings**
 
