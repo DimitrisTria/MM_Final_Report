@@ -20,7 +20,7 @@
 
 ### Διαδικασία ανάπτυξης
   Αρχικά, μετά από την επιλογή του θέματος χρησιμοποίησα ένα περιβάλλον προγραμματισμού της επιλογής μου και συγκεκριμένα το Visual Studio Code. Ο λόγος για αυτό είναι το ότι, έχω τη δυνατότητα να τρέξω τον κώδικα εκτός διαδυκτίου και με σαφως μεγαλύτερη απόδοση και ταχύτητα τοπικά στο σύστημα που χρησιμοποιώ. Αργότερα, για να αναπτύξω τον κώδικα, για την υλοποίηση των παραδοτέων, χρησιμοποίησα ως πηγές τους ακόλουθους συνδέσμους για εκμάθηση javascript ([https://www.javascript.com/learn/javascript/strings](https://www.javascript.com/learn/javascript/strings 'javascript tutorials')) και της μηχανής παιχνιδιού (game engine) Phaser ([https://phaser.io/examples](https://phaser.io/examples 'Phaser examples')). Με μια μικρή αναζήτηση στο διαδίκτυο ενημερώθηκα με συμβουλές για την ανάπτυξη ενός παιχνιδιού ([http://www.creativebloq.com/inspiration/10-tips-building-better-game-5126304](http://www.creativebloq.com/inspiration/10-tips-building-better-game-5126304 '10 tips for building a better game')).
-  
+
 ### Ενδεικτικές οθόνες
 
 #### ***I) Μenu στην αρχή του παιχνιδιού***
@@ -137,12 +137,22 @@ ii) Πόντοι, Μπόνους, Ζωές
 iii) Ήχοι και μουσική
 
   1) Προσθήκη νέων ήχων από το αυθεντικό Super Mario Bros.
+  2) Προσθήκη μουσικής για στο παιχνίδι.
   
-  link1: [https://scratch.mit.edu/projects/49905542/](https://scratch.mit.edu/projects/49905542/ "scratch")
+### Πηγές πολυμεσικού υλικού που χρησιμοποιήθηκε στο παιχνίδι
   
-  2) Προσθήκη μουσικής από τα assets της εργασίας.
+  menu background: [http://iliketowastemytime.com/2012/12/30/daily-wallpaper-star-map](http://iliketowastemytime.com/2012/12/30/daily-wallpaper-star-map 'menu background')
+  gameplay background: [https://i.pinimg.com/originals/84/b7/ab/84b7abce44bcca4c0b6f203cd3a467e4.jpg](https://i.pinimg.com/originals/84/b7/ab/84b7abce44bcca4c0b6f203cd3a467e4.jpg 'gameplay background')
+  Super Mario Bros: [https://scratch.mit.edu/projects/49905542/](https://scratch.mit.edu/projects/49905542/ "Super Mario Bros")
+  freesound: [https://freesound.org/](https://freesound.org/ "freesound")
+  Super Mario Bros assets1: [https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/](https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/ 'Super Mario Bros assets1')
+  Super Mario Bros assets2: [http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html](http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html 'Super Mario Bros assets2')
+  teleport sprite: [https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12](https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12 'teleport sprite')
+  player and fireball: [https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated](https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated 'player and fireball')
+  help arrows: [http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png](http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png)
   
-  link2: [https://freesound.org/](https://freesound.org/ "freesound")
+  Το υπόλοιπο πολυμεσικό περιεχόμενο, εκτός από αυτά που ήρθαν με το παιχνίδι στην εργασία, δημιουργήθηκαν από εμένα.
 
+  
 ### Συμπεράσματα
 
