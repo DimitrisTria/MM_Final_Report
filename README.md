@@ -23,8 +23,8 @@
   * Λογισμικό δημιουργία επιπέδων στο παιχνίδι: Tiled [http://www.mapeditor.org/](http://www.mapeditor.org/ "Tiled")
 
 ### Διαδικασία ανάπτυξης
-  Αρχικά, μετά από την επιλογή του θέματος χρησιμοποίησα ένα περιβάλλον προγραμματισμού της επιλογής μου και συγκεκριμένα το Visual Studio Code. Ο λόγος για αυτό είναι το ότι, έχω τη δυνατότητα να τρέξω τον κώδικα εκτός διαδυκτίου και με σαφως μεγαλύτερη απόδοση και ταχύτητα τοπικά στο σύστημα που χρησιμοποιώ. Αργότερα, για να αναπτύξω τον κώδικα, για την υλοποίηση των παραδοτέων, χρησιμοποίησα ως πηγές τους ακόλουθους συνδέσμους για εκμάθηση javascript ([https://www.javascript.com/learn/javascript/strings](https://www.javascript.com/learn/javascript/strings 'javascript tutorials')) και της μηχανής παιχνιδιού (game engine) Phaser ([https://phaser.io/examples](https://phaser.io/examples 'Phaser examples')).
-  Αργότερα, έκανα μια μικρή αναζήτηση σε παρόμοια arcade παιχνίδια για αναζήτηση ιδεών και κατέληξα σε κάποιοες. Για παράδειγμα, η ιδέα για την εισαγωγή του ufo προήλθε από το από το παιχνίδι space invaders. Επιπλέον, έκανα μια μικρή αναζήτηση στο διαδίκτυο και ενημερώθηκα με συμβουλές για την πορεία ανάπτυξης ενός παιχνιδιού ([http://www.creativebloq.com/inspiration/10-tips-building-better-game-5126304](http://www.creativebloq.com/inspiration/10-tips-building-better-game-5126304 '10 tips for building a better game')).
+  Αρχικά, μετά από την επιλογή του θέματος χρησιμοποίησα ένα περιβάλλον προγραμματισμού της επιλογής μου και συγκεκριμένα το Visual Studio Code. Ο λόγος για αυτό είναι το ότι, έχω τη δυνατότητα να τρέξω τον κώδικα εκτός διαδυκτίου και με σαφως μεγαλύτερη απόδοση και ταχύτητα τοπικά στο σύστημα που χρησιμοποιώ. Αργότερα, για να αναπτύξω τον κώδικα, για τα ζητούμενα των παραδοτέων, χρησιμοποίησα ως πηγές τους ακόλουθους συνδέσμους για εκμάθηση javascript ([https://www.javascript.com/learn/javascript/strings](https://www.javascript.com/learn/javascript/strings 'javascript tutorials')) και του game-engine Phaser ([https://phaser.io/examples](https://phaser.io/examples 'Phaser examples')).
+  Αργότερα, έκανα μια μικρή αναζήτηση σε παρόμοια arcade παιχνίδια για αναζήτηση ιδεών και κατέληξα σε κάποιοες. Για παράδειγμα, η ιδέα για την εισαγωγή του ufo προήλθε από το από το παιχνίδι space invaders. Στη συνέχεια, ενημερώθηκα από τον καθηγητή με συμβουλές για τρόπους ανάπτυξης και επέκτασης ενός παιχνιδιού καθώς και από το διαδίκτυο ([http://www.creativebloq.com/inspiration/10-tips-building-better-game-5126304](http://www.creativebloq.com/inspiration/10-tips-building-better-game-5126304 '10 tips for building a better game')).
 
 ### Ενδεικτικές οθόνες
 
@@ -110,7 +110,7 @@ ii) Τρεις (3) εχθροί
     
    UFO: ![ufo](https://user-images.githubusercontent.com/22676085/33483697-be8a3740-d6a7-11e7-8931-bf77ccdfd3cc.png)
 
-#### ***IV) Λειτουργίες στο παιχνίδι***
+#### ***IV) Επεκτάσεις στο παιχνίδι***
 
 i) Δυνατότητα τηλεμεταφοράς του παίκτη σε κάποιο σημείο της πίστας πέρα από αυτό που βρίσκεται αυτή τη στιγμή.Ο παίκτης για να ενεργοποιήσει τη λειτουργία teleport στη πίστα χρειάζεται να συλλέξει το αντικείμενο: ![teleport](https://user-images.githubusercontent.com/22676085/33485137-f60c9cc0-d6ad-11e7-8207-570955ef6da2.png 'teleport') από το αντικείμενο: ![bonus box](https://user-images.githubusercontent.com/22676085/33485200-28de6f84-d6ae-11e7-9666-adaacb6125a3.png 'bonus box').
 
@@ -139,8 +139,8 @@ ii) Πόντοι, Μπόνους, Ζωές
   
 iii) Ήχοι και μουσική
 
-  1) Προσθήκη νέων ήχων αλλά και από το αυθεντικό Super Mario Bros.
-  2) Προσθήκη μουσικής στο παιχνίδι.
+  1) Χρήση νέων ήχων και αυθεντικών από το Super Mario Bros.
+  2) Χρήση μουσικής στο παρασκήνιο του παιχνιδιού.
   
 iv) Checkpoint.
 
