@@ -146,6 +146,7 @@ iii) Ήχοι και μουσική
   * Super Mario Bros assets1: [https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/](https://www.spriters-resource.com/nes/supermariobros2supermariobrosthelostlevelsjpn/sheet/52630/ 'Super Mario Bros assets1')
   * Super Mario Bros assets2: [http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html](http://www.nesmaps.com/maps/SuperMarioBrothers/sprites/SuperMarioBrothersSprites.html 'Super Mario Bros assets2')
   * coin animation: [http://s11.postimg.org/p9sml5v4z/Coins.png](http://s11.postimg.org/p9sml5v4z/Coins.png 'coin animation')
+  * firework animation: [https://giphy.com/stickers/free-fireworks-clipart-vzF0lrwPoR9kc?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://www.google.co.in/](https://giphy.com/stickers/free-fireworks-clipart-vzF0lrwPoR9kc?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://www.google.co.in/ 'firework animation')
   * teleport sprite: [https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12](https://itunes.apple.com/us/app/iteleport-vnc-rdp/id489094439?mt=12 'teleport sprite')
   * player and fireball sprites: [https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated](https://opengameart.org/content/16x16-16x24-32x32-rpg-enemies-updated 'player and fireball sprites')
   * help arrows: [http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png](http://www.101computing.net/wp/wp-content/uploads/arrowKeys-300x205.png)
