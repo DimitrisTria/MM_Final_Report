@@ -3,8 +3,8 @@
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
 
-* Link demo: [https://dimitristria.github.io/Super-Mario/](https://dimitristria.github.io/Super-Mario/ 'Link demo')
-* Αποθετήριο τρέχον κώδικα: [https://github.com/DimitrisTria/Super-Mario](https://github.com/DimitrisTria/Super-Mario 'Αποθετήριο κώδικα')
+* Demo: [https://dimitristria.github.io/Super-Mario/](https://dimitristria.github.io/Super-Mario/ 'Link demo')
+* Αποθετήριο κώδικα: [https://github.com/DimitrisTria/Super-Mario](https://github.com/DimitrisTria/Super-Mario 'Αποθετήριο κώδικα')
 
 Αποθετήριο κώδικα προηγούμενων παραδοτέων
 
