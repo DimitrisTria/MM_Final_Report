@@ -11,6 +11,10 @@
 * Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
 * Αποθετήριο κώδικα τρίτου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3 'Αποθετήριο κώδικα τρίτου παραδοτέου')
 
+#### Σύνδεσμος για το pull request της δεύτερης πίστας
+
+* Δεύτερη πίστα: [https://github.com/ioniodi/Super-Mario/pull/115](https://github.com/ioniodi/Super-Mario/pull/115 'Πίστα')
+
 ### Εισαγωγή
   Το παρακάτω παιχνίδι, Super Mario, δημιουργήθηκε για τα πλαίσια της εργασίας εξαμήνου του μαθήματος Πολυμέσα, του Ιόνιου Πανεπιστημίου, στο πέμπτου εξαμήνου.
 
