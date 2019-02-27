@@ -3,13 +3,13 @@
 ### Ονοματεπώνυμο: Δημήτριος Τριανταφύλλου
 ### Αριθμός Μητρώου: Π2015077
 
-* Demo: [https://jimtria.github.io/Super-Mario/](https://jimtria.github.io/Super-Mario/ 'Link demo')
-* Αποθετήριο κώδικα: [https://github.com/JimTria/Super-Mario](https://github.com/JimTria/Super-Mario 'Αποθετήριο κώδικα')
+* Demo: [https://DimitrisTria.github.io/Super-Mario/](https://jimtria.github.io/Super-Mario/ 'Link demo')
+* Αποθετήριο κώδικα: [https://github.com/DimitrisTria/Super-Mario](https://github.com/JimTria/Super-Mario 'Αποθετήριο κώδικα')
 
 #### Αποθετήριο κώδικα προηγούμενων παραδοτέων
 
-* Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/JimTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2](https://github.com/JimTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
-* Αποθετήριο κώδικα τρίτου παραδοτέου: [https://github.com/JimTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3](https://github.com/JimTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3 'Αποθετήριο κώδικα τρίτου παραδοτέου')
+* Αποθετήριο κώδικα δεύτερου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF2 'Αποθετήριο κώδικα δεύτερου παραδοτέου')
+* Αποθετήριο κώδικα τρίτου παραδοτέου: [https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3](https://github.com/DimitrisTria/Super-Mario/tree/%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF3 'Αποθετήριο κώδικα τρίτου παραδοτέου')
 
 #### Σύνδεσμος για το pull request της δεύτερης πίστας
 
